@@ -1,8 +1,10 @@
 ## textlint
 
+my technical writing textlint rules
+
 ### Setup
 
-* `npm i`
+* `make init`
 
 ## ref
 
